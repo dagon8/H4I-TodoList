@@ -4,6 +4,7 @@ I used the MERN stack to complete this project, which was also new to me. It was
 With the basic knowledge I had in React, I learned about Axios, requests, useState, useEffect, and much more!
 I felt comfortable with the HTML (JSX) and CSS in this project, so I think the frontend is acceptable.
 In the end, the project is a simple to-do list with the capabilities of creating, reading, updating, and deleting. (CRUD)
+Link to demo of the app: https://youtu.be/kqMxBDNpAEE
 
 # To Initialize
 In the terminal, cd to the server folder and type "node index.js" to start the server.
